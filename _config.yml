@@ -13,7 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Fomento Comercial, como abrir uma factoring, softwares e sistemas para factoring,
   franquias e últimas noticías do setor.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.fomentobrasil.com.br" # the base hostname & protocol for your site
+facebook_app_id: 138847736581737
 
 # Build settings
 markdown: kramdown
