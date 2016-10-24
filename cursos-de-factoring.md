@@ -14,3 +14,6 @@ permalink: /cursos-de-factoring/
 **Fone**: (11) 2361-8900<br>
 **E-mail**: atendimento@anfac.com.br<br>
 **Endereço**: Av. Angélica, 2.447 11 º andar - São Paulo, SP CEP 01227-200
+
+### ABRAGERE (Academia Brasileira de Gestão de Recebíveis)        
+**Website**: http://www.abragere.com.br/index.php/cursos-presenciais/11-factoring-para-iniciantes
