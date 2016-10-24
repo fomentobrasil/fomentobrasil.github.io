@@ -6,12 +6,12 @@ permalink: /softwares-e-sistemas-para-factoring/
 
 Existem diversos programas para factoring no mercado, com funcionalidades e preços diferentes. Para auxiliar você na decisão de usar em sua operação, fizemos uma análise dos mais usados:
 
-* [WBA]({{ site.baseurl }}/softwares/wba/)
-* [DiFact]({{ site.baseurl }}/softwares/difact/)
-* [RGB Sys]({{ site.baseurl }}/softwares/rgb-sys/)
-* [Smartfactor]({{ site.baseurl }}/softwares/smartfactor/)
-* [Facwin]({{ site.baseurl }}/softwares/facwin/)
-* [Coeficiente]({{ site.baseurl }}/softwares/coeficiente/)
+* [WBA]({{ site.baseurl }}/softwares/wba.html)
+* [DiFact]({{ site.baseurl }}/softwares/difact.html)
+* [RGB Sys]({{ site.baseurl }}/softwares/rgb-sys.html)
+* [Smartfactor]({{ site.baseurl }}/softwares/smartfactor.html)
+* [Facwin]({{ site.baseurl }}/softwares/facwin.html)
+* [Coeficiente]({{ site.baseurl }}/softwares/coeficiente.html)
 
 ***
 
