@@ -18,3 +18,5 @@ facebook_app_id: 138847736581737
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
